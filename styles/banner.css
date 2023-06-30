@@ -35,6 +35,10 @@
     background-position: 1em;
 }
 
+.card__ancora:hover {
+    background-color: var(--azul);
+}
+
 @media screen and (min-width: 1024px) {
     .banner__titulo {
         font-size: 32px;
